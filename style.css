@@ -5,7 +5,7 @@ body{
 }
 
 header{
-    background: url("images/Air1.jpg") no-repeat center;
+    background: url("Images/Air1.jpg") no-repeat center;
     background-size: cover;
     color:#C9A227;
     text-align:center;
@@ -94,7 +94,7 @@ text-align:center;
 padding:20px;
 }
 
-/* ===== TAMBAHKAN DI SINI ===== */
+/* =====  ===== */
 
 .headline,
 .article{
